@@ -17,5 +17,7 @@
  <img align="center" alt="BANCO DE DADOS SQL" src="http://jorgepaz.com.br/logos/logosSql1.png" />
  <img align="center" alt="BANCO DE DADOS NoSQL" src="http://jorgepaz.com.br/logos/logosNoSQL.png" /> 
  
-</div>
+</div><br/>
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
