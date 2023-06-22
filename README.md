@@ -15,6 +15,7 @@
  <img align="center" alt="VUE" src="http://jorgepaz.com.br/logos/logo_vue.png" />
  <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+ <img align="center" alt="PHP" src="http://jorgepaz.com.br/logos/logo_php.png" />
  <img align="center" alt="BANCO DE DADOS SQL" src="http://jorgepaz.com.br/logos/bdsql.png" />
  <img align="center" alt="BANCO DE DADOS NoSQL" src="http://jorgepaz.com.br/logos/bdnosql.png" /> 
  
